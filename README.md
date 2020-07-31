@@ -1,2 +1,2 @@
-# coursera-test
-coursera test repository
+# Hello World App
+This is an example used in a medium blog 
